@@ -22,8 +22,8 @@ Display the output for the input read from the user
 ### Step6:
 Stop the execution.
 ## Program:
-### Developed by: Saravana Kumar S
-### Reg No: 212221230088
+#### Developed by: Saravana Kumar S
+#### Reg No: 212221230088
 ```c#
 using System;
 namespace ex1
