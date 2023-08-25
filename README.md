@@ -1,4 +1,4 @@
-# Eligibility-for-Admission
+# <p align="middle"> Eligibility-for-Admission</p>
 
 ## Aim:
 To write a C# program to find the eligibility for admission to an engineering course.
@@ -62,8 +62,8 @@ namespace ex1
 ```
 ## Output:
 
-![](./o1.png)
-![](./o2.png)
+<img width = "350" src="./o1.png">
+<img width = "350" src="./o1.png">
 
 ## Result:
 Thus, a C# program to check the eligibility of a student on engineering admission has been executed successfully.
