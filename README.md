@@ -60,8 +60,8 @@ namespace ex1
 ```
 ## Output:
 
-<img width = "450" src="./o1.png">
-<img width = "450" src="./o1.png">
+<img src="./o1.png">
+<img src="./o1.png">
 
 ## Result:
 Thus, a C# program to check the eligibility of a student on engineering admission has been executed successfully.
