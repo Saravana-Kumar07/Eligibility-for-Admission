@@ -22,8 +22,6 @@ Display the output for the input read from the user
 ### Step6:
 Stop the execution.
 ## Program:
-#### Developed by: Saravana Kumar S
-#### Reg No: 212221230088
 ```c#
 using System;
 namespace ex1
@@ -62,8 +60,8 @@ namespace ex1
 ```
 ## Output:
 
-<img width = "350" src="./o1.png">
-<img width = "350" src="./o1.png">
+<img width = "450" src="./o1.png">
+<img width = "450" src="./o1.png">
 
 ## Result:
 Thus, a C# program to check the eligibility of a student on engineering admission has been executed successfully.
